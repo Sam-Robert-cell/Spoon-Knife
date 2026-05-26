@@ -4,7 +4,7 @@ This repository is meant to provide an example for *forking* a repository on Git
 
 此行测试*文档*文字倾斜
 
-我将我的主页设置到此处，欢迎游客来访问，[San-Robert-cell](ttps://github.com/Sam-Robert-cell/)！
+我将我的主页设置到此处，欢迎游客来访问，[Sam-Robert-cel](ttps://github.com/Sam-Robert-cell/)！
 
 Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
 
