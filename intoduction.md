@@ -1,3 +1,3 @@
 ### Here is one place of me!
 
-Thanks for you whtch.
+Thanks for you watch.
